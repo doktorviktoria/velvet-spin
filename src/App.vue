@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  ds
+  <div class="container">
+
+  </div>
 </template>
 
 <style scoped>
